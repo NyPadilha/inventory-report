@@ -4,7 +4,7 @@ from inventory_report.product import Product
 
 
 class Inventory:
-    def __init__(self, data: Optional[List[Product]] == None):
+    def __init__(self, data: Optional[List[Product]] = None):
         self._data = [] if data == None else data
 
     def add_data(self, data: List[Product]):
