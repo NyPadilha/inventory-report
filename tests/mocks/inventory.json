@@ -1,0 +1,902 @@
+[
+  {
+    "id": "2427",
+    "product_name": "voluptas",
+    "company_name": "da Cruz Costela e Filhos",
+    "manufacturing_date": "2024-02-24",
+    "expiration_date": "2066-10-27",
+    "serial_number": "YU63 PJ8Q 2659 2SJ9 77H8 491M 0W43",
+    "storage_instructions": "Eos expedita odit voluptates amet eaque. Sequi sunt nam voluptatibus doloremque odit. Ea voluptate reiciendis officia omnis."
+  },
+  {
+    "id": "9003",
+    "product_name": "magni",
+    "company_name": "Moura Costa e Filhos",
+    "manufacturing_date": "2023-12-17",
+    "expiration_date": "2081-10-29",
+    "serial_number": "JX56 84KW 6471 2FS3 Y319 9L4P 9A4B",
+    "storage_instructions": "Aut sequi explicabo molestiae. Itaque explicabo voluptatem dolores beatae rerum hic hic. Necessitatibus quibusdam optio."
+  },
+  {
+    "id": "8850",
+    "product_name": "itaque",
+    "company_name": "Ribeiro Ltda.",
+    "manufacturing_date": "2024-01-15",
+    "expiration_date": "2104-09-28",
+    "serial_number": "FG15 ZWOX 8291 8OSU M590 QHIX WC2C",
+    "storage_instructions": "Totam amet consequatur distinctio alias blanditiis. Sit nam quod eum suscipit temporibus adipisci. Molestiae recusandae tempora."
+  },
+  {
+    "id": "9190",
+    "product_name": "illum",
+    "company_name": "Melo",
+    "manufacturing_date": "2023-08-10",
+    "expiration_date": "2077-07-15",
+    "serial_number": "LT81 7LFH 0732 8LOP H716 GKMF 0B0Z",
+    "storage_instructions": "Repellendus ex nihil modi. Dignissimos facilis dolores voluptas ipsum."
+  },
+  {
+    "id": "5509",
+    "product_name": "placeat",
+    "company_name": "Foga\u00e7a",
+    "manufacturing_date": "2023-08-24",
+    "expiration_date": "2081-08-10",
+    "serial_number": "LN60 72TJ 1762 0X0N V360 1XH1 045R",
+    "storage_instructions": "Exercitationem commodi recusandae inventore."
+  },
+  {
+    "id": "6643",
+    "product_name": "necessitatibus",
+    "company_name": "Novaes",
+    "manufacturing_date": "2023-11-24",
+    "expiration_date": "2058-09-08",
+    "serial_number": "S955 WI0F 9352 2DGQ C5P5 FV18 H47L",
+    "storage_instructions": "Ullam cupiditate molestiae voluptate. Dignissimos dignissimos dicta odio deserunt earum debitis."
+  },
+  {
+    "id": "3087",
+    "product_name": "deserunt",
+    "company_name": "Gomes e Filhos",
+    "manufacturing_date": "2023-07-10",
+    "expiration_date": "2064-10-15",
+    "serial_number": "8Q99 X4SV 7508 2GXQ 0668 40PM WX8X",
+    "storage_instructions": "Quod dolorem nostrum neque ex. In explicabo ad suscipit error quae."
+  },
+  {
+    "id": "3931",
+    "product_name": "eligendi",
+    "company_name": "Arag\u00e3o",
+    "manufacturing_date": "2023-04-23",
+    "expiration_date": "2062-07-27",
+    "serial_number": "Z016 FT8A 7105 2J9I E9B8 JANY MB6E",
+    "storage_instructions": "Ut eos minus est non aliquam labore. Aut voluptate adipisci ullam qui. Quaerat aliquam dolorum."
+  },
+  {
+    "id": "275",
+    "product_name": "dolor",
+    "company_name": "Viana Santos - EI",
+    "manufacturing_date": "2023-05-16",
+    "expiration_date": "2074-01-26",
+    "serial_number": "OF95 W0EV 5478 1SYQ R2E5 T1VT IM4K",
+    "storage_instructions": "Repellendus amet eum temporibus. Nihil voluptatibus saepe mollitia porro sapiente quae."
+  },
+  {
+    "id": "5912",
+    "product_name": "assumenda",
+    "company_name": "Lopes S/A",
+    "manufacturing_date": "2023-04-08",
+    "expiration_date": "2048-10-30",
+    "serial_number": "G093 DBEB 0306 9QNL Z7D9 V2F7 2O7X",
+    "storage_instructions": "Quasi reiciendis illo pariatur provident aliquam veritatis. Suscipit ad repudiandae cupiditate sapiente illo eligendi. Eos maxime dignissimos alias fugit rem."
+  },
+  {
+    "id": "547",
+    "product_name": "magnam",
+    "company_name": "da Rocha",
+    "manufacturing_date": "2023-08-04",
+    "expiration_date": "2115-12-13",
+    "serial_number": "NG80 LBMQ 0946 41MC K1Q5 UVK8 CT8J",
+    "storage_instructions": "Numquam laudantium odit distinctio in vel maiores mollitia. Minus omnis reiciendis aspernatur molestiae molestiae. Tempore soluta iste dolorem."
+  },
+  {
+    "id": "6828",
+    "product_name": "quaerat",
+    "company_name": "Ramos S/A",
+    "manufacturing_date": "2024-02-28",
+    "expiration_date": "2038-02-14",
+    "serial_number": "FK32 J6HV 5437 5MJ9 S4Z5 9FLV XL9K",
+    "storage_instructions": "Itaque incidunt cupiditate consectetur sed. Ab id saepe voluptatibus adipisci repellendus repudiandae."
+  },
+  {
+    "id": "3633",
+    "product_name": "architecto",
+    "company_name": "Gon\u00e7alves - EI",
+    "manufacturing_date": "2023-07-07",
+    "expiration_date": "2096-07-16",
+    "serial_number": "FB73 KCF1 3823 37MF E8D8 QLHC IZ1A",
+    "storage_instructions": "Repudiandae in earum. Magni porro provident quia. Rerum voluptatem eveniet repellendus dignissimos perspiciatis nobis."
+  },
+  {
+    "id": "9948",
+    "product_name": "unde",
+    "company_name": "da Mata e Filhos",
+    "manufacturing_date": "2024-01-30",
+    "expiration_date": "2108-05-21",
+    "serial_number": "MH32 EUCO 4191 0NOP 98F4 B6VD 8P1X",
+    "storage_instructions": "Excepturi in quos consectetur asperiores eius. Dignissimos libero iusto modi exercitationem sint quis perferendis."
+  },
+  {
+    "id": "7288",
+    "product_name": "consectetur",
+    "company_name": "Ferreira Ltda.",
+    "manufacturing_date": "2024-02-15",
+    "expiration_date": "2049-06-03",
+    "serial_number": "MR12 O4YJ 6677 9GH9 B771 NWFK SD84",
+    "storage_instructions": "Dignissimos rem optio illum excepturi autem. Id doloremque consequuntur rerum doloremque consectetur similique. Suscipit similique molestiae provident dolor perferendis vel doloremque."
+  },
+  {
+    "id": "7941",
+    "product_name": "veritatis",
+    "company_name": "Porto - ME",
+    "manufacturing_date": "2023-12-01",
+    "expiration_date": "2119-11-24",
+    "serial_number": "IB85 2PL0 8005 9OED 75X5 HDRO 819L",
+    "storage_instructions": "Aperiam non eius vero pariatur asperiores. Ratione hic vero velit. Dolor cum ipsa eius iste."
+  },
+  {
+    "id": "6839",
+    "product_name": "eveniet",
+    "company_name": "da Rosa Sales S.A.",
+    "manufacturing_date": "2023-09-25",
+    "expiration_date": "2044-04-02",
+    "serial_number": "5G82 60NR 2183 06NC I8M7 4QY9 1K2D",
+    "storage_instructions": "Sapiente fugit mollitia repudiandae quas asperiores. Maxime consequuntur architecto inventore aliquam saepe."
+  },
+  {
+    "id": "2218",
+    "product_name": "recusandae",
+    "company_name": "Barbosa - ME",
+    "manufacturing_date": "2023-11-11",
+    "expiration_date": "2067-03-16",
+    "serial_number": "TJ73 AW3Q 0677 0RSU 99E1 OAZG FG8M",
+    "storage_instructions": "Dolorum eum mollitia corporis ad. Ipsum quaerat accusantium earum. Minima reiciendis maiores."
+  },
+  {
+    "id": "6419",
+    "product_name": "autem",
+    "company_name": "Cunha",
+    "manufacturing_date": "2023-05-01",
+    "expiration_date": "2108-11-08",
+    "serial_number": "X712 HIJG 6356 4XI8 69O5 H6L0 K91F",
+    "storage_instructions": "Odit ut quasi nihil. Dolor modi ut temporibus."
+  },
+  {
+    "id": "2000",
+    "product_name": "provident",
+    "company_name": "Santos Campos - ME",
+    "manufacturing_date": "2023-11-08",
+    "expiration_date": "2027-02-04",
+    "serial_number": "2E44 4DXC 2673 35DF 11S5 A76K 3A2K",
+    "storage_instructions": "Quia eaque nostrum delectus molestias tenetur. Rem sint esse perspiciatis vero deserunt reprehenderit. Ducimus quisquam aut."
+  },
+  {
+    "id": "8973",
+    "product_name": "distinctio",
+    "company_name": "Correia",
+    "manufacturing_date": "2024-01-09",
+    "expiration_date": "2088-08-10",
+    "serial_number": "8K32 QA1P 6156 3IOO X4V0 90XS 3T07",
+    "storage_instructions": "Culpa error sit in. Quae autem atque numquam fuga itaque dolorem. Eveniet et non cupiditate quidem doloribus."
+  },
+  {
+    "id": "7310",
+    "product_name": "fuga",
+    "company_name": "Carvalho da Rosa S.A.",
+    "manufacturing_date": "2024-02-05",
+    "expiration_date": "2092-05-24",
+    "serial_number": "XY65 H048 8847 7TVM 58A7 70P4 SB78",
+    "storage_instructions": "Nobis fuga at. Neque nemo quibusdam vel dolore consequatur occaecati."
+  },
+  {
+    "id": "7730",
+    "product_name": "fugiat",
+    "company_name": "Melo",
+    "manufacturing_date": "2023-05-12",
+    "expiration_date": "2106-12-22",
+    "serial_number": "LQ06 CYBE 0093 16TR B9E2 KNCU 7L43",
+    "storage_instructions": "Illo natus nemo neque pariatur tenetur. Quod doloremque architecto doloremque."
+  },
+  {
+    "id": "1319",
+    "product_name": "iure",
+    "company_name": "Ramos",
+    "manufacturing_date": "2023-05-18",
+    "expiration_date": "2054-03-29",
+    "serial_number": "LR54 G30F 7308 6P5X 5469 WCJ8 HI4M",
+    "storage_instructions": "Nihil eos aspernatur molestias molestias rem officiis. Quidem quae earum adipisci. Ipsum esse distinctio molestias illo nemo beatae cupiditate."
+  },
+  {
+    "id": "6765",
+    "product_name": "voluptatibus",
+    "company_name": "Lima - EI",
+    "manufacturing_date": "2024-03-07",
+    "expiration_date": "2061-07-30",
+    "serial_number": "W384 NYXR 1533 1M1E I0O4 IV1E D066",
+    "storage_instructions": "Repudiandae dolor molestiae quo sit voluptates consectetur. Asperiores ut facere eius. Voluptate velit aut harum error tenetur."
+  },
+  {
+    "id": "5925",
+    "product_name": "fuga",
+    "company_name": "Correia e Filhos",
+    "manufacturing_date": "2023-09-24",
+    "expiration_date": "2098-02-18",
+    "serial_number": "Q686 P9V8 1697 7PNC 24E1 7A8E 0M3V",
+    "storage_instructions": "Deleniti tenetur fuga voluptatum. Dolorum fugit inventore dolores veritatis eos."
+  },
+  {
+    "id": "6824",
+    "product_name": "architecto",
+    "company_name": "Silveira",
+    "manufacturing_date": "2023-04-11",
+    "expiration_date": "2076-12-09",
+    "serial_number": "OC00 GX3Q 8096 57MC A2W8 P86A TF39",
+    "storage_instructions": "Animi architecto quas delectus assumenda illum. Fuga distinctio maxime quas ut error. Amet aspernatur ipsam tempora ex minima ipsum quod."
+  },
+  {
+    "id": "8639",
+    "product_name": "incidunt",
+    "company_name": "da Rocha da Rosa - ME",
+    "manufacturing_date": "2023-10-06",
+    "expiration_date": "2118-05-24",
+    "serial_number": "WP54 U2XR 9436 9JC3 Z6L6 8LA3 4N0S",
+    "storage_instructions": "Aspernatur ex fugit mollitia deleniti. Aliquam minus molestiae deleniti. Ab officiis optio maiores similique illum voluptatum placeat."
+  },
+  {
+    "id": "903",
+    "product_name": "expedita",
+    "company_name": "Azevedo Farias - ME",
+    "manufacturing_date": "2023-06-26",
+    "expiration_date": "2027-10-11",
+    "serial_number": "6A15 GGVO 8418 3GFP S9I3 WU8Q BZ49",
+    "storage_instructions": "Architecto aut quis nemo voluptatem esse. Accusantium occaecati fugit culpa."
+  },
+  {
+    "id": "3203",
+    "product_name": "magnam",
+    "company_name": "Carvalho",
+    "manufacturing_date": "2023-10-27",
+    "expiration_date": "2098-02-25",
+    "serial_number": "T683 UM4S 8156 21D8 8758 PT1J 4932",
+    "storage_instructions": "Libero et nihil sapiente quod perspiciatis. Deleniti eum at sunt. Laudantium culpa omnis incidunt omnis."
+  },
+  {
+    "id": "800",
+    "product_name": "dolore",
+    "company_name": "da Mata",
+    "manufacturing_date": "2024-01-08",
+    "expiration_date": "2111-10-13",
+    "serial_number": "2V00 O2GC 7934 7IDQ K837 PE52 KN6L",
+    "storage_instructions": "Aspernatur exercitationem non quasi ab nobis magnam. Accusamus assumenda eum perspiciatis. Velit quibusdam cum amet aperiam quidem sunt."
+  },
+  {
+    "id": "734",
+    "product_name": "at",
+    "company_name": "da Rosa - EI",
+    "manufacturing_date": "2024-01-04",
+    "expiration_date": "2064-01-08",
+    "serial_number": "WP97 E9XR 3713 6D9A 82F9 4E51 MV3B",
+    "storage_instructions": "Officia fuga rem maxime maxime at qui. Ab quam mollitia. Doloremque explicabo ipsum."
+  },
+  {
+    "id": "8011",
+    "product_name": "debitis",
+    "company_name": "Pereira",
+    "manufacturing_date": "2023-06-14",
+    "expiration_date": "2096-10-02",
+    "serial_number": "K710 6YKC 4309 9C2T U6M6 0K2Q EF2H",
+    "storage_instructions": "Nam ut similique ad quaerat minima illo corrupti. Molestias nemo delectus asperiores."
+  },
+  {
+    "id": "3606",
+    "product_name": "id",
+    "company_name": "Alves",
+    "manufacturing_date": "2023-07-21",
+    "expiration_date": "2116-10-08",
+    "serial_number": "DS40 3X9J 2267 2R0K Y4H9 6KCV 3280",
+    "storage_instructions": "Voluptatibus hic quam voluptatum ipsam praesentium ea. Aspernatur occaecati vero quasi adipisci a rerum. Consectetur odio accusamus sit officia."
+  },
+  {
+    "id": "3474",
+    "product_name": "vel",
+    "company_name": "da Mota",
+    "manufacturing_date": "2023-11-04",
+    "expiration_date": "2063-09-13",
+    "serial_number": "9E91 IYEC 4657 8KMD P287 GQGS WW2K",
+    "storage_instructions": "Aspernatur quisquam illo nulla blanditiis nostrum quibusdam. Officia nisi possimus perspiciatis culpa neque quas. Maiores modi veniam excepturi."
+  },
+  {
+    "id": "9994",
+    "product_name": "quo",
+    "company_name": "da Cunha - EI",
+    "manufacturing_date": "2023-06-20",
+    "expiration_date": "2112-04-16",
+    "serial_number": "F245 X0T6 8013 3ZEF 13T2 5TTI O81C",
+    "storage_instructions": "Amet eos delectus. Voluptate modi libero."
+  },
+  {
+    "id": "194",
+    "product_name": "tempora",
+    "company_name": "Silveira",
+    "manufacturing_date": "2023-09-06",
+    "expiration_date": "2090-05-16",
+    "serial_number": "3X86 F47L 5816 7DAL M733 MY4A M13U",
+    "storage_instructions": "Minima nemo vero ipsa numquam. Nam totam placeat deserunt accusamus. Minima voluptas sapiente."
+  },
+  {
+    "id": "6551",
+    "product_name": "asperiores",
+    "company_name": "Cunha",
+    "manufacturing_date": "2023-12-05",
+    "expiration_date": "2096-01-12",
+    "serial_number": "1F40 7P3L 7063 5F0A I937 11MP 4H8A",
+    "storage_instructions": "Nobis id porro dicta est. Maiores nam deserunt veniam iusto. Repudiandae facilis deserunt officia."
+  },
+  {
+    "id": "2619",
+    "product_name": "iste",
+    "company_name": "Nogueira S.A.",
+    "manufacturing_date": "2024-02-15",
+    "expiration_date": "2071-12-05",
+    "serial_number": "HH14 40EG 9980 2113 2007 7L3V JF5T",
+    "storage_instructions": "Corrupti autem error nobis consectetur deserunt. Velit rem impedit. Occaecati aspernatur odio vero."
+  },
+  {
+    "id": "6353",
+    "product_name": "facere",
+    "company_name": "Moraes",
+    "manufacturing_date": "2023-12-24",
+    "expiration_date": "2057-06-09",
+    "serial_number": "LG65 WBXT 0674 24SD Y350 JVVS VX4B",
+    "storage_instructions": "Id harum culpa voluptas numquam. Explicabo ipsa vel eaque possimus occaecati reiciendis."
+  },
+  {
+    "id": "8679",
+    "product_name": "vitae",
+    "company_name": "Jesus - ME",
+    "manufacturing_date": "2023-09-08",
+    "expiration_date": "2093-03-17",
+    "serial_number": "U180 YTBJ 9149 3SGF 43K2 7066 EY9N",
+    "storage_instructions": "Laborum molestiae possimus ipsa. Dolore tempora quas velit perspiciatis assumenda."
+  },
+  {
+    "id": "9852",
+    "product_name": "nostrum",
+    "company_name": "da Mata Cardoso Ltda.",
+    "manufacturing_date": "2024-03-25",
+    "expiration_date": "2093-11-11",
+    "serial_number": "KE86 U3S0 0325 5QWO 03S6 PU6M EH3E",
+    "storage_instructions": "Vero id mollitia sint possimus illo vel tempora. Beatae eum sint nam suscipit doloremque deserunt. Voluptate dolorum animi maxime labore."
+  },
+  {
+    "id": "6501",
+    "product_name": "aperiam",
+    "company_name": "Souza",
+    "manufacturing_date": "2024-01-14",
+    "expiration_date": "2029-04-07",
+    "serial_number": "IS65 AD5B 5310 7B6W A216 RYSX DM73",
+    "storage_instructions": "Esse ut a dolorem."
+  },
+  {
+    "id": "7822",
+    "product_name": "vel",
+    "company_name": "Silva S/A",
+    "manufacturing_date": "2023-11-11",
+    "expiration_date": "2065-07-02",
+    "serial_number": "N026 D0SF 3979 52YO Y5U5 H5HZ W47I",
+    "storage_instructions": "Minima magnam illum occaecati ea nesciunt quibusdam. Ducimus accusantium vel harum sapiente iure. Pariatur numquam omnis tempora error totam explicabo."
+  },
+  {
+    "id": "1808",
+    "product_name": "eligendi",
+    "company_name": "Duarte Ltda.",
+    "manufacturing_date": "2023-04-08",
+    "expiration_date": "2073-11-03",
+    "serial_number": "9K82 5HRE 9853 160M 87U1 OGSJ BT14",
+    "storage_instructions": "Rerum quam nulla dolore distinctio magnam mollitia. Architecto minima nesciunt quaerat saepe minima consectetur."
+  },
+  {
+    "id": "3092",
+    "product_name": "dicta",
+    "company_name": "Viana S/A",
+    "manufacturing_date": "2023-10-28",
+    "expiration_date": "2075-08-07",
+    "serial_number": "2L98 5100 6902 0BTC S6D8 9Q41 PV0T",
+    "storage_instructions": "Debitis accusamus dolores enim. Harum et qui reprehenderit nemo aliquam voluptates. Laboriosam quas vero omnis dignissimos."
+  },
+  {
+    "id": "6003",
+    "product_name": "molestiae",
+    "company_name": "Lima",
+    "manufacturing_date": "2023-11-24",
+    "expiration_date": "2054-09-15",
+    "serial_number": "TL75 DGXA 8635 9EST 2362 FZQV DQ5G",
+    "storage_instructions": "Consequatur nihil placeat explicabo ipsam enim. Nesciunt illo sed dolore totam doloribus. Accusamus magnam facere neque voluptatum saepe rerum corrupti."
+  },
+  {
+    "id": "9751",
+    "product_name": "illum",
+    "company_name": "Viana Gomes S.A.",
+    "manufacturing_date": "2023-12-02",
+    "expiration_date": "2080-08-26",
+    "serial_number": "2171 5QGZ 3787 1IAT 06T4 G2ZZ V72X",
+    "storage_instructions": "Aliquid facilis animi a tempore quisquam. Similique eaque alias ut occaecati eveniet. Animi minus quam inventore aperiam omnis minima. Similique repellendus enim harum nisi aut non."
+  },
+  {
+    "id": "865",
+    "product_name": "earum",
+    "company_name": "Moura",
+    "manufacturing_date": "2023-04-19",
+    "expiration_date": "2091-05-01",
+    "serial_number": "DI26 P8TV 2194 690X 3748 9UDO 510A",
+    "storage_instructions": "Nulla adipisci hic ex. Doloribus molestias provident dolorum vitae deleniti. Ipsa autem quas rem nemo tenetur."
+  },
+  {
+    "id": "999999",
+    "product_name": "distinctio",
+    "company_name": "moc.liamg##ppn367",
+    "manufacturing_date": "2023-11-24",
+    "expiration_date": "2109-12-24",
+    "serial_number": "FC92 6U98 6643 9XAB Y1S1 Q1VA KU9B",
+    "storage_instructions": "Praesentium eos occaecati earum. Vitae incidunt impedit cumque rerum ducimus. Eos explicabo laudantium debitis ad architecto dolor."
+  },
+  {
+    "id": "1042",
+    "product_name": "aspernatur",
+    "company_name": "Lima",
+    "manufacturing_date": "2024-02-23",
+    "expiration_date": "2094-11-03",
+    "serial_number": "V782 COR2 3465 6U02 Q1T8 1EB0 EP3X",
+    "storage_instructions": "Doloremque hic distinctio omnis. Blanditiis quos eum unde. Iste eveniet voluptatem veritatis debitis porro autem rerum."
+  },
+  {
+    "id": "4027",
+    "product_name": "ad",
+    "company_name": "Mendes",
+    "manufacturing_date": "2023-06-02",
+    "expiration_date": "2120-07-29",
+    "serial_number": "IC02 IG9Z 2400 6SGV B7D8 CVUQ I15S",
+    "storage_instructions": "Consectetur voluptatibus cum sequi officiis aliquid alias quibusdam. Voluptates perferendis possimus quis. Distinctio illo vitae laborum reiciendis."
+  },
+  {
+    "id": "2270",
+    "product_name": "sunt",
+    "company_name": "Oliveira S.A.",
+    "manufacturing_date": "2023-09-20",
+    "expiration_date": "2071-12-31",
+    "serial_number": "SB22 1XXG 8675 5HBF T7P3 DJDI 7933",
+    "storage_instructions": "Illum impedit aliquam tempore repudiandae suscipit. Aspernatur inventore fugiat sit facere deleniti similique."
+  },
+  {
+    "id": "9048",
+    "product_name": "fuga",
+    "company_name": "Caldeira",
+    "manufacturing_date": "2023-11-14",
+    "expiration_date": "2072-03-02",
+    "serial_number": "2D57 03UP 9265 42TD K5O2 MEFY ME9W",
+    "storage_instructions": "Et quae sit quod. Ratione ex quo nemo aliquam. Quisquam sunt odio possimus ab. Perspiciatis iusto repellat cumque illo nam."
+  },
+  {
+    "id": "5829",
+    "product_name": "dolorem",
+    "company_name": "Ara\u00fajo",
+    "manufacturing_date": "2023-06-11",
+    "expiration_date": "2070-01-12",
+    "serial_number": "4Z18 M3JE 2750 105U O6T7 Z7JN 032D",
+    "storage_instructions": "Molestiae aut vero consectetur. Nam in voluptas quam iusto minima aliquam. Expedita blanditiis illum id."
+  },
+  {
+    "id": "2097",
+    "product_name": "odit",
+    "company_name": "Santos Porto S.A.",
+    "manufacturing_date": "2023-05-31",
+    "expiration_date": "2122-03-30",
+    "serial_number": "2A48 L75B 5899 2XT6 23U9 DIMA UI20",
+    "storage_instructions": "Ducimus nihil ut rem qui eum repellat suscipit. Vitae repudiandae a molestias deleniti. Mollitia autem ullam neque dolor molestias. Dolorum dicta maxime error quas."
+  },
+  {
+    "id": "9581",
+    "product_name": "adipisci",
+    "company_name": "das Neves",
+    "manufacturing_date": "2023-04-18",
+    "expiration_date": "2117-08-29",
+    "serial_number": "A455 VWC6 7911 2UPJ I6A4 HAK1 HW4E",
+    "storage_instructions": "Perferendis in hic iusto. Natus deleniti animi cum accusamus ratione. Quas eveniet placeat pariatur."
+  },
+  {
+    "id": "6183",
+    "product_name": "reprehenderit",
+    "company_name": "Barbosa",
+    "manufacturing_date": "2023-10-23",
+    "expiration_date": "2077-08-31",
+    "serial_number": "JY63 0M41 9719 99OG 24F1 M6R3 SD8D",
+    "storage_instructions": "Id molestiae minus praesentium. Aliquam quaerat molestias sit quod."
+  },
+  {
+    "id": "8318",
+    "product_name": "nulla",
+    "company_name": "Pinto da Paz - ME",
+    "manufacturing_date": "2024-02-29",
+    "expiration_date": "2105-05-13",
+    "serial_number": "TP17 PT0U 6861 7TK9 M5R1 J49M 1K8R",
+    "storage_instructions": "Nobis nisi illo asperiores vero sint corporis. Soluta explicabo maiores dicta cupiditate. Fugiat molestiae dolores labore."
+  },
+  {
+    "id": "6441",
+    "product_name": "porro",
+    "company_name": "Alves",
+    "manufacturing_date": "2023-05-10",
+    "expiration_date": "2089-01-29",
+    "serial_number": "PY19 YTC8 4641 5QG4 4131 Q6JZ 9A3I",
+    "storage_instructions": "Cum voluptates nostrum praesentium pariatur aspernatur deserunt. Illum commodi quos. Numquam nulla consequuntur asperiores dignissimos minima rem."
+  },
+  {
+    "id": "2870",
+    "product_name": "et",
+    "company_name": "da Rosa Campos S.A.",
+    "manufacturing_date": "2023-07-14",
+    "expiration_date": "2110-09-01",
+    "serial_number": "6663 A9Z0 8177 7REW F987 RH8O 3O3S",
+    "storage_instructions": "Omnis nesciunt repellendus molestiae. Itaque iure modi corrupti."
+  },
+  {
+    "id": "2250",
+    "product_name": "labore",
+    "company_name": "Cunha S.A.",
+    "manufacturing_date": "2023-05-19",
+    "expiration_date": "2027-12-26",
+    "serial_number": "8255 81QQ 7308 2VHU 33T7 KGYW 8F4U",
+    "storage_instructions": "Alias esse alias voluptatum ex. Molestiae omnis voluptatibus necessitatibus. Ut consectetur aperiam corrupti facere id autem iste."
+  },
+  {
+    "id": "3632",
+    "product_name": "nostrum",
+    "company_name": "da Cruz",
+    "manufacturing_date": "2023-11-27",
+    "expiration_date": "2042-01-10",
+    "serial_number": "ZD97 346G 0340 5PZO 85W1 SMXI 0L1Z",
+    "storage_instructions": "Odit cumque dolorum qui doloribus. Quidem possimus alias dolorem reprehenderit minus aspernatur. Dolore beatae modi corporis doloribus rerum excepturi consequuntur."
+  },
+  {
+    "id": "1077",
+    "product_name": "sit",
+    "company_name": "Ribeiro Barros e Filhos",
+    "manufacturing_date": "2023-10-13",
+    "expiration_date": "2035-09-19",
+    "serial_number": "LG72 OBH6 5771 5VG1 G0K4 5G2J CA7P",
+    "storage_instructions": "Ab vitae est quod ex quos quae. Nisi eaque reiciendis ea ipsam quibusdam laudantium. Vero dicta mollitia sit cumque cupiditate. Laboriosam facilis quod adipisci corrupti eveniet."
+  },
+  {
+    "id": "472",
+    "product_name": "excepturi",
+    "company_name": "Costela S/A",
+    "manufacturing_date": "2023-07-28",
+    "expiration_date": "2067-09-27",
+    "serial_number": "Y538 PIHB 1995 9FBX 41D2 BDT0 ZY7W",
+    "storage_instructions": "Vitae cum qui esse libero repudiandae sequi enim. Atque aliquid occaecati molestias. Rerum velit consequuntur quis asperiores. Voluptate unde animi ullam corrupti facere eum temporibus."
+  },
+  {
+    "id": "9354",
+    "product_name": "nobis",
+    "company_name": "Freitas Viana - ME",
+    "manufacturing_date": "2023-06-04",
+    "expiration_date": "2105-12-06",
+    "serial_number": "U509 PMVT 5457 5SP1 G9R2 EMT7 NU2X",
+    "storage_instructions": "Sint alias harum cum. Excepturi officia optio libero quod unde amet. Iure laboriosam sint."
+  },
+  {
+    "id": "8563",
+    "product_name": "quaerat",
+    "company_name": "da Paz da Cunha Ltda.",
+    "manufacturing_date": "2023-10-02",
+    "expiration_date": "2028-05-04",
+    "serial_number": "T513 2XNN 4766 9185 L848 9M6D DQ0H",
+    "storage_instructions": "Saepe laborum ea ea assumenda velit."
+  },
+  {
+    "id": "843",
+    "product_name": "laborum",
+    "company_name": "Cunha",
+    "manufacturing_date": "2023-05-01",
+    "expiration_date": "2093-12-23",
+    "serial_number": "PR73 2RZ5 5567 7A3N 59U6 BKZW 4Y4W",
+    "storage_instructions": "Iusto quidem corporis. Tempora veniam harum doloremque reiciendis atque."
+  },
+  {
+    "id": "6933",
+    "product_name": "harum",
+    "company_name": "Nascimento",
+    "manufacturing_date": "2023-04-27",
+    "expiration_date": "2105-11-23",
+    "serial_number": "QV41 81FE 7601 7G6T 04A3 3W41 BV0M",
+    "storage_instructions": "Dolorem numquam fugit harum unde praesentium. Ullam aut nostrum a. Temporibus eum ea corporis possimus animi repellendus."
+  },
+  {
+    "id": "5147",
+    "product_name": "iusto",
+    "company_name": "Pinto",
+    "manufacturing_date": "2023-08-20",
+    "expiration_date": "2095-07-30",
+    "serial_number": "U331 7YMX 3871 4FMB C3X0 F2CI 4I2V",
+    "storage_instructions": "Aliquam nulla repellat ut. Rem praesentium reiciendis rerum debitis. Officiis sapiente hic alias nobis necessitatibus vero alias."
+  },
+  {
+    "id": "9502",
+    "product_name": "quos",
+    "company_name": "da Concei\u00e7\u00e3o",
+    "manufacturing_date": "2023-06-29",
+    "expiration_date": "2107-10-08",
+    "serial_number": "LX92 IZ84 6297 1ISK N6I5 7NS9 JZ0F",
+    "storage_instructions": "Reprehenderit temporibus vero esse blanditiis. Assumenda sed a quidem. Consequuntur perspiciatis facilis quidem. Incidunt autem exercitationem reiciendis."
+  },
+  {
+    "id": "4372",
+    "product_name": "nesciunt",
+    "company_name": "Barros",
+    "manufacturing_date": "2023-11-17",
+    "expiration_date": "2074-11-30",
+    "serial_number": "TN71 NYQQ 5602 6C60 67Y2 5ND5 JA7O",
+    "storage_instructions": "Quasi repellendus deleniti reiciendis quos ad mollitia vel. Corrupti possimus commodi."
+  },
+  {
+    "id": "4871",
+    "product_name": "soluta",
+    "company_name": "Alves",
+    "manufacturing_date": "2024-03-24",
+    "expiration_date": "2108-03-20",
+    "serial_number": "MU73 N9ZN 5816 3L06 67L5 BKSP 688K",
+    "storage_instructions": "Iure ipsa alias. Dicta architecto placeat sit in exercitationem a. Quasi dolores nihil quae vero vel."
+  },
+  {
+    "id": "5771",
+    "product_name": "consequatur",
+    "company_name": "Monteiro",
+    "manufacturing_date": "2024-01-19",
+    "expiration_date": "2070-06-24",
+    "serial_number": "BC78 IY2L 0369 11OQ A1L7 89OS 0H4V",
+    "storage_instructions": "Hic eius mollitia magni expedita ullam. Corporis eligendi ab eos omnis laboriosam facilis. Assumenda praesentium earum deserunt temporibus quasi. Saepe vitae quo praesentium aliquid sit."
+  },
+  {
+    "id": "5564",
+    "product_name": "incidunt",
+    "company_name": "Castro",
+    "manufacturing_date": "2023-12-12",
+    "expiration_date": "2047-11-01",
+    "serial_number": "DB26 B57U 4828 8S3Y H9X0 87TB DQ72",
+    "storage_instructions": "Ea culpa molestias praesentium consequatur. Reiciendis commodi cupiditate pariatur."
+  },
+  {
+    "id": "8078",
+    "product_name": "asperiores",
+    "company_name": "da Mata Lopes S/A",
+    "manufacturing_date": "2023-12-02",
+    "expiration_date": "2111-09-13",
+    "serial_number": "YS00 T0VQ 1189 7QPX 5025 KS8Z C826",
+    "storage_instructions": "Ea impedit iusto deserunt incidunt amet. Totam alias excepturi illum suscipit eum quam."
+  },
+  {
+    "id": "8118",
+    "product_name": "consequuntur",
+    "company_name": "Gon\u00e7alves - EI",
+    "manufacturing_date": "2023-09-03",
+    "expiration_date": "2076-11-17",
+    "serial_number": "M190 4W2W 3526 16N4 Q300 8J1N 3J5V",
+    "storage_instructions": "Inventore sint iste recusandae delectus ad placeat quaerat. Itaque earum ipsum unde rem dolore adipisci."
+  },
+  {
+    "id": "5183",
+    "product_name": "amet",
+    "company_name": "Caldeira Ltda.",
+    "manufacturing_date": "2023-10-07",
+    "expiration_date": "2088-11-12",
+    "serial_number": "0D20 BBU1 1433 7QX0 23H6 43EO HM5E",
+    "storage_instructions": "Eaque placeat recusandae molestias voluptas recusandae. Quasi ullam aperiam ullam. Dolor corporis odit repellat quisquam minima."
+  },
+  {
+    "id": "8939",
+    "product_name": "et",
+    "company_name": "da Cruz Nogueira e Filhos",
+    "manufacturing_date": "2023-09-28",
+    "expiration_date": "2122-05-27",
+    "serial_number": "8754 L9L5 6578 3XYT V6A0 0ACQ YP9S",
+    "storage_instructions": "Earum ab veniam eum nisi quas minus natus. Iusto odio adipisci eveniet similique id maiores. Sapiente quisquam dolor ducimus autem deleniti."
+  },
+  {
+    "id": "5253",
+    "product_name": "voluptates",
+    "company_name": "Pereira Oliveira S.A.",
+    "manufacturing_date": "2023-10-24",
+    "expiration_date": "2102-08-29",
+    "serial_number": "C811 31EQ 7239 0CVR G0P4 CF5V GE28",
+    "storage_instructions": "Doloribus dolorem nihil consequuntur rem. Consequuntur maxime accusamus illum repudiandae ratione."
+  },
+  {
+    "id": "7180",
+    "product_name": "nam",
+    "company_name": "Foga\u00e7a",
+    "manufacturing_date": "2024-01-24",
+    "expiration_date": "2039-10-15",
+    "serial_number": "BV00 Q7RU 3432 4WJO K3Y4 3NDY NE78",
+    "storage_instructions": "Placeat exercitationem voluptatem. Accusantium id ut aperiam quibusdam. Quod nemo deleniti aut consequatur."
+  },
+  {
+    "id": "4029",
+    "product_name": "accusamus",
+    "company_name": "Almeida Moraes e Filhos",
+    "manufacturing_date": "2023-08-10",
+    "expiration_date": "2069-09-16",
+    "serial_number": "0A65 AXQC 2912 5WCU S7X4 RVUL KQ1S",
+    "storage_instructions": "Vel eveniet culpa quidem aliquid. Qui ullam id odit. Illum perferendis doloremque autem et autem maxime."
+  },
+  {
+    "id": "4448",
+    "product_name": "nihil",
+    "company_name": "Ara\u00fajo Rocha - ME",
+    "manufacturing_date": "2023-11-07",
+    "expiration_date": "2042-01-06",
+    "serial_number": "CW47 COG6 3160 0LXX Y376 W7ZQ YX97",
+    "storage_instructions": "Ducimus magni repellendus totam."
+  },
+  {
+    "id": "780",
+    "product_name": "veritatis",
+    "company_name": "Teixeira",
+    "manufacturing_date": "2023-08-21",
+    "expiration_date": "2049-09-20",
+    "serial_number": "RZ18 E9JS 0422 4RAW J5H8 VI9E JU2J",
+    "storage_instructions": "Laudantium molestiae facere perferendis esse error harum. Dolor non libero illum beatae sunt."
+  },
+  {
+    "id": "3539",
+    "product_name": "ea",
+    "company_name": "Fernandes Nogueira S/A",
+    "manufacturing_date": "2023-09-11",
+    "expiration_date": "2047-07-15",
+    "serial_number": "ER82 D4Y3 8137 0EKV B5X0 IUBC MC1I",
+    "storage_instructions": "Nihil perspiciatis voluptate ut explicabo. Impedit dolores soluta odit nisi illum."
+  },
+  {
+    "id": "4846",
+    "product_name": "neque",
+    "company_name": "Teixeira",
+    "manufacturing_date": "2023-04-14",
+    "expiration_date": "2052-09-03",
+    "serial_number": "EA80 19NC 3172 2A6C F6G6 7JPC KJ0Y",
+    "storage_instructions": "Nobis nisi et autem nulla adipisci illo ullam. Aut unde ea veniam."
+  },
+  {
+    "id": "361",
+    "product_name": "dicta",
+    "company_name": "Moraes - ME",
+    "manufacturing_date": "2023-04-27",
+    "expiration_date": "2112-08-31",
+    "serial_number": "RI33 OO09 2339 6J4H Q8E4 A5UJ O68L",
+    "storage_instructions": "Esse ducimus ea praesentium consequuntur nisi soluta. Sit eos maiores necessitatibus corrupti cum assumenda. Exercitationem dolorum quidem aliquam quas."
+  },
+  {
+    "id": "4017",
+    "product_name": "maxime",
+    "company_name": "Silva e Filhos",
+    "manufacturing_date": "2023-10-27",
+    "expiration_date": "2083-04-14",
+    "serial_number": "F190 0LH0 9181 0G9I F3Y9 2GMD QO6E",
+    "storage_instructions": "Maxime nulla libero neque incidunt voluptatibus nobis."
+  },
+  {
+    "id": "2291",
+    "product_name": "eos",
+    "company_name": "Costela e Filhos",
+    "manufacturing_date": "2023-05-31",
+    "expiration_date": "2067-09-10",
+    "serial_number": "NF40 VI6L 6283 4KF5 W660 IIHU PJ4C",
+    "storage_instructions": "Veritatis debitis minus corrupti veritatis earum. Fugiat illum eius corrupti mollitia temporibus tempora."
+  },
+  {
+    "id": "3455",
+    "product_name": "reiciendis",
+    "company_name": "Almeida",
+    "manufacturing_date": "2023-07-05",
+    "expiration_date": "2054-12-27",
+    "serial_number": "7780 DN44 0902 5JX1 O3P4 0GEC NO2G",
+    "storage_instructions": "Quod recusandae vero quaerat. Eum quas qui nostrum ut maxime aliquam."
+  },
+  {
+    "id": "6783",
+    "product_name": "vel",
+    "company_name": "Teixeira Farias S/A",
+    "manufacturing_date": "2023-10-16",
+    "expiration_date": "2049-12-13",
+    "serial_number": "VE59 BVTU 2927 0YA3 H2L7 LAHT 8X93",
+    "storage_instructions": "A alias omnis tempore. Debitis reprehenderit nemo exercitationem iste ullam. Molestiae delectus maxime dicta odio. Aperiam voluptatum facere."
+  },
+  {
+    "id": "1907",
+    "product_name": "eius",
+    "company_name": "Cunha",
+    "manufacturing_date": "2023-04-02",
+    "expiration_date": "2055-09-27",
+    "serial_number": "4P51 L68N 4391 7GYT Y8Q5 O0TK 7W8G",
+    "storage_instructions": "Porro rerum perspiciatis molestiae totam aspernatur placeat."
+  },
+  {
+    "id": "1499",
+    "product_name": "sit",
+    "company_name": "da Cunha",
+    "manufacturing_date": "2023-04-09",
+    "expiration_date": "2119-09-10",
+    "serial_number": "PZ16 8GBG 5425 1CPY Z7F7 UI26 0A11",
+    "storage_instructions": "Error sint veniam sapiente quidem. Ut accusamus quod harum. Iure perspiciatis ullam delectus dignissimos exercitationem rem."
+  },
+  {
+    "id": "7498",
+    "product_name": "inventore",
+    "company_name": "Alves",
+    "manufacturing_date": "2023-11-15",
+    "expiration_date": "2076-02-05",
+    "serial_number": "QM55 G215 2463 7A3O R1B4 F7EM 8W9N",
+    "storage_instructions": "Laudantium in deserunt laudantium nulla officiis. Aspernatur architecto quisquam cum. Ad ipsa mollitia minus."
+  },
+  {
+    "id": "3291",
+    "product_name": "rerum",
+    "company_name": "Pires S/A",
+    "manufacturing_date": "2024-02-09",
+    "expiration_date": "2086-10-24",
+    "serial_number": "FT38 ED6T 7606 2WKU F5M3 2BUB A80W",
+    "storage_instructions": "Sapiente eligendi vitae dignissimos. Iusto ipsam incidunt saepe omnis. Quis occaecati consequatur recusandae totam pariatur."
+  },
+  {
+    "id": "2499",
+    "product_name": "minima",
+    "company_name": "da Costa Cavalcanti - EI",
+    "manufacturing_date": "2023-07-02",
+    "expiration_date": "2026-07-27",
+    "serial_number": "TG59 1SY6 4191 95J6 V7S5 LCNS YK9K",
+    "storage_instructions": "Molestias accusamus hic qui. Officia deserunt deserunt quam voluptas. A quaerat numquam excepturi maxime."
+  },
+  {
+    "id": "7754",
+    "product_name": "illo",
+    "company_name": "Cardoso",
+    "manufacturing_date": "2023-09-26",
+    "expiration_date": "2031-12-11",
+    "serial_number": "RG07 8PQP 8873 3A5J A6Z1 VNZW 4X4K",
+    "storage_instructions": "Consectetur quas ratione minus. Corrupti rerum veniam dolores odio dolorem quidem nostrum."
+  },
+  {
+    "id": "943",
+    "product_name": "et",
+    "company_name": "Ferreira",
+    "manufacturing_date": "2023-07-19",
+    "expiration_date": "2085-07-03",
+    "serial_number": "2C94 6VUQ 2017 4C5E J446 NGW0 2U0A",
+    "storage_instructions": "Officiis atque alias minima. Sed quo numquam expedita nihil perferendis sed iure."
+  },
+  {
+    "id": "7105",
+    "product_name": "repellat",
+    "company_name": "Arag\u00e3o",
+    "manufacturing_date": "2024-03-18",
+    "expiration_date": "2047-05-14",
+    "serial_number": "GS16 721L 5234 2P19 D8G1 JFXL G51M",
+    "storage_instructions": "Delectus rerum eveniet excepturi sit impedit laborum. Corporis accusamus inventore molestias. Quam sit maxime laudantium."
+  },
+  {
+    "id": "984",
+    "product_name": "iusto",
+    "company_name": "Lopes Sales S/A",
+    "manufacturing_date": "2023-08-16",
+    "expiration_date": "2087-07-02",
+    "serial_number": "F202 9STC 0219 8CLA Y5Y8 U5R8 VV4R",
+    "storage_instructions": "Magnam error velit laudantium quod. Ipsa voluptas odio temporibus laborum accusantium beatae."
+  }
+]
