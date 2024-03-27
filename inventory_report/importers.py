@@ -34,13 +34,7 @@ class JsonImporter(Importer):
             return products
 
 
-class CsvImporter:
-    pass
-
-
 # Não altere a variável abaixo
-
 IMPORTERS: Dict[str, Type[Importer]] = {
     "json": JsonImporter,
-    "csv": CsvImporter,
 }

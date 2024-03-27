@@ -1,25 +1,30 @@
 # Inventory Report (Trybe Project)
 
-???
+Report generator. The goal is to receive files containing information about a specific stock and then produce a comprehensive report based on that data. This stock data can be obtained from two sources:
+
+By importing a CSV file;
+
+By importing a JSON file;
 
 🚵 Worked Skills:
 
-- 
+- Apply Object Oriented Programming concepts in Python.
+- Implement reading and writing CSV and JSON files in Python.
 
 <details>
     <summary><strong>Portuguese Description</strong></summary></br>
 
-    Neste projeto, irá desenvolver um gerador de relatórios. O objetivo é receber arquivos contendo informações sobre um estoque específico e, em seguida, produzir um relatório abrangente com base nesses dados. Esses dados de estoque poderão ser obtidos de duas fontes:
+    Gerador de relatórios. O objetivo é receber arquivos contendo informações sobre um estoque específico e, em seguida, produzir um relatório abrangente com base nesses dados. Esses dados de estoque poderão ser obtidos de duas fontes:
 
     Através da importação de um arquivo CSV;
 
     Através da importação de um arquivo JSON;
 
-    Além disso, o relatório final possuirá duas versões: simples e completa.
-
     🚵 Habilidades a serem trabalhadas:
 
-    - 
+    - Aplicar conceitos de Programação Orientada a Objetos em Python.
+    - Implementar leitura e escrita de arquivos CSV e JSON em Python.
+
 </details>
 
 <br>

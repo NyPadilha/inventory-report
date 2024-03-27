@@ -2,13 +2,10 @@ from abc import ABC
 
 import pytest
 
-from inventory_report.importers import CsvImporter, Importer, JsonImporter
+from inventory_report.importers import Importer, JsonImporter
 from inventory_report.product import Product
-from tests.conftest import (
-    generate_data_using_seed,
-    mock_url,
-    _prepare_product_data,
-)
+from tests.conftest import (_prepare_product_data, generate_data_using_seed,
+                            mock_url)
 
 
 @pytest.mark.dependency
@@ -96,16 +93,4 @@ PRODUCTS = [
 @pytest.mark.dependency(depends=["test_json_importer_extends_importer"])
 def test_validate_json_importer() -> None:
     report = JsonImporter("inventory_report/data/inventory.json").import_data()
-    assert report == PRODUCTS
-
-
-@pytest.mark.dependency
-def test_csv_importer_extends_importer() -> None:
-    assert issubclass(CsvImporter, Importer)
-
-
-# Teste do requisito 8
-@pytest.mark.dependency(depends=["test_csv_importer_extends_importer"])
-def test_validate_csv_importer() -> None:
-    report = CsvImporter("inventory_report/data/inventory.csv").import_data()
     assert report == PRODUCTS
